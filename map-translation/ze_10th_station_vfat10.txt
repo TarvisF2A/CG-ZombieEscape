@@ -6,7 +6,7 @@
 	}
 	"THE TRAIN SUDDENLY CRASHED!!! WE NEED TO FIND A WAY OUT OF THE TUNNELS!!"
 	{
-		"trans"		"[{darkred}Map{default}]  开着开着这车就翻了,你们得到另一边找个老司机给你们开车!"
+		"trans"		"[{darkred}Map{default}]  开着开着这车就翻了,你们得到另一边找个老司机给你们开车!!"
 	}
 	"And this Hazard Door."
 	{
