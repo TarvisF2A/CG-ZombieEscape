@@ -119,7 +119,7 @@
 	}
 	"A Zombie Has Control of The Thing!!"
 	{
-		"trans"		"[{darkred}Map{default}]  有僵尸控制了BOSS!"
+		"trans"		"[{darkred}Map{default}]  有僵尸玩家控制了BOSS!"
 	}
 	"EWW Kill It!!!"
 	{
