@@ -12,7 +12,7 @@
 	{
 		"SPAWN CAMP KILLER IN 60 SECONDS ***"
 		{
-			"trans"		"[{darkred}Map{default}] *** AFK/SPAWN CAMP KILLER IN 60 SECONDS ***"
+			"trans"		"[{darkred}Map{default}] 60秒后处死挂机者"
 		}
 	}
 	"*** REAR DOORS OPENING IN 30 SECONDS ***"
